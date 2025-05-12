@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "r001",
+    "title": "Excellent work on our React application",
+    "text": "John delivered exceptional quality on our React project. He was responsive, professional, and went above and beyond to ensure everything worked perfectly. Would definitely hire again!",
+    "rating": 5,
+    "created_at": "2023-04-10T14:30:00.000Z",
+    "freelancer_id": "f001"
+  },
+  {
+    "_id": "r002",
+    "title": "Great design work",
+    "text": "Emily created a beautiful UI design for our mobile app. She understood our requirements perfectly and delivered on time. Her communication skills are excellent.",
+    "rating": 5,
+    "created_at": "2023-03-28T16:45:00.000Z",
+    "freelancer_id": "f002"
+  },
+  {
+    "_id": "r003",
+    "title": "Impressive Python skills",
+    "text": "Michael developed a complex data analysis system for us using Python. His code was clean, well-documented, and performed exactly as needed. Highly recommended for any Python work.",
+    "rating": 5,
+    "created_at": "2023-04-15T11:20:00.000Z",
+    "freelancer_id": "f003"
+  },
+  {
+    "_id": "r004",
+    "title": "Creative graphic design",
+    "text": "Sofia created a fantastic logo and brand identity for our startup. Her creative process was thorough, and she provided multiple options for us to choose from. Great value for money.",
+    "rating": 4,
+    "created_at": "2023-04-05T09:15:00.000Z",
+    "freelancer_id": "f004"
+  },
+  {
+    "_id": "r005",
+    "title": "Solid PHP development",
+    "text": "David built a custom WordPress plugin for our e-commerce site. There were a few minor bugs initially, but he fixed them promptly. Overall, good work.",
+    "rating": 4,
+    "created_at": "2023-03-12T10:30:00.000Z",
+    "freelancer_id": "f005"
+  },
+  {
+    "_id": "r006",
+    "title": "Excellent content writing",
+    "text": "Anna wrote several blog posts for our tech website. Her research was thorough, and the content was engaging and SEO-optimized. We've already seen increased traffic as a result.",
+    "rating": 5,
+    "created_at": "2023-04-20T15:45:00.000Z",
+    "freelancer_id": "f006"
+  },
+  {
+    "_id": "r007",
+    "title": "Outstanding Java development",
+    "text": "Robert developed a complex microservices architecture for our application. His expertise in Java and Spring Boot was evident throughout the project. Very professional and knowledgeable.",
+    "rating": 5,
+    "created_at": "2023-03-30T13:10:00.000Z",
+    "freelancer_id": "f007"
+  },
+  {
+    "_id": "r008",
+    "title": "Good marketing strategy",
+    "text": "Olivia helped us develop a comprehensive marketing strategy. While some aspects worked better than others, overall it was a solid plan that improved our customer acquisition.",
+    "rating": 4,
+    "created_at": "2023-04-18T09:20:00.000Z",
+    "freelancer_id": "f008"
+  },
+  {
+    "_id": "r009",
+    "title": "Excellent React development",
+    "text": "William built a complex React application for our financial services platform. His code quality was excellent, and he was very responsive to feedback and change requests.",
+    "rating": 5,
+    "created_at": "2023-03-25T14:50:00.000Z",
+    "freelancer_id": "f009"
+  },
+  {
+    "_id": "r010",
+    "title": "Great SEO improvements",
+    "text": "Emma helped optimize our website for search engines. Within two months, we saw significant improvements in our rankings for key terms. Her reports were detailed and insightful.",
+    "rating": 5,
+    "created_at": "2023-04-22T11:30:00.000Z",
+    "freelancer_id": "f010"
+  },
+  {
+    "_id": "r011",
+    "title": "Solid Node.js development",
+    "text": "James built a real-time communication system using Node.js and Socket.io. There were some initial performance issues, but he worked diligently to resolve them. Good outcome overall.",
+    "rating": 4,
+    "created_at": "2023-03-15T16:20:00.000Z",
+    "freelancer_id": "f011"
+  },
+  {
+    "_id": "r012",
+    "title": "Beautiful UI/UX design",
+    "text": "Sophia redesigned our web application interface, and the results were outstanding. Users have commented positively on the improved usability, and conversion rates have increased.",
+    "rating": 5,
+    "created_at": "2023-04-08T10:15:00.000Z",
+    "freelancer_id": "f012"
+  },
+  {
+    "_id": "r013",
+    "title": "Decent WordPress work",
+    "text": "Daniel customized our WordPress theme. While the work was completed on time, there were some responsiveness issues on mobile devices that required additional revisions.",
+    "rating": 3,
+    "created_at": "2023-03-20T09:40:00.000Z",
+    "freelancer_id": "f013"
+  },
+  {
+    "_id": "r014",
+    "title": "Exceptional data science expertise",
+    "text": "Ava developed a machine learning model for our product recommendation system. Her knowledge of Python and data science techniques was impressive, and the model has significantly improved our conversion rates.",
+    "rating": 5,
+    "created_at": "2023-04-25T14:10:00.000Z",
+    "freelancer_id": "f014"
+  },
+  {
+    "_id": "r015",
+    "title": "Great frontend development",
+    "text": "Thomas built several components for our Vue.js application. His attention to detail and knowledge of modern JavaScript frameworks made the collaboration smooth and productive.",
+    "rating": 5,
+    "created_at": "2023-03-18T11:50:00.000Z",
+    "freelancer_id": "f015"
+  },
+  {
+    "_id": "r016",
+    "title": "High-quality content writing",
+    "text": "Mia wrote a series of technical articles for our software documentation. Her ability to explain complex concepts in clear, concise language was exactly what we needed.",
+    "rating": 5,
+    "created_at": "2023-04-28T15:30:00.000Z",
+    "freelancer_id": "f016"
+  },
+  {
+    "_id": "r017",
+    "title": "Professional mobile development",
+    "text": "Alexander developed a cross-platform mobile app using React Native. The app performed well on both iOS and Android, and he was responsive to our feedback throughout the process.",
+    "rating": 4,
+    "created_at": "2023-03-22T10:40:00.000Z",
+    "freelancer_id": "f017"
+  },
+  {
+    "_id": "r018",
+    "title": "Creative logo design",
+    "text": "Isabella designed a new logo for our rebrand. The process was efficient, and she provided several excellent options. The final design perfectly captures our brand identity.",
+    "rating": 5,
+    "created_at": "2023-04-17T13:25:00.000Z",
+    "freelancer_id": "f018"
+  },
+  {
+    "_id": "r019",
+    "title": "Excellent DevOps implementation",
+    "text": "Ethan set up a CI/CD pipeline and containerized our application. His expertise in DevOps practices has significantly improved our deployment process and reduced downtime.",
+    "rating": 5,
+    "created_at": "2023-03-10T09:15:00.000Z",
+    "freelancer_id": "f019"
+  },
+  {
+    "_id": "r020",
+    "title": "Good SEO work",
+    "text": "Charlotte audited our website and implemented various SEO improvements. While some of her recommendations were helpful, others didn't yield the expected results. Overall, a mixed experience.",
+    "rating": 3,
+    "created_at": "2023-04-12T14:40:00.000Z",
+    "freelancer_id": "f020"
+  },
+  {
+    "_id": "r021",
+    "title": "Great JavaScript development",
+    "text": "John helped us optimize our web application's performance. His deep understanding of JavaScript and browser rendering made a significant difference in our page load times.",
+    "rating": 5,
+    "created_at": "2023-02-15T11:20:00.000Z",
+    "freelancer_id": "f001"
+  },
+  {
+    "_id": "r022",
+    "title": "Excellent design system",
+    "text": "Emily created a comprehensive design system for our product. Her organization and attention to detail have made it much easier for our team to maintain design consistency.",
+    "rating": 5,
+    "created_at": "2023-01-28T09:30:00.000Z",
+    "freelancer_id": "f002"
+  },
+  {
+    "_id": "r023",
+    "title": "Solid backend work",
+    "text": "Michael developed our API using Django REST framework. The architecture was well-thought-out and the documentation was thorough. Very satisfied with the results.",
+    "rating": 4,
+    "created_at": "2023-02-20T14:15:00.000Z",
+    "freelancer_id": "f003"
+  },
+  {
+    "_id": "r024",
+    "title": "Creative illustrations",
+    "text": "Sofia created a series of illustrations for our marketing materials. Her artistic style perfectly matched our brand aesthetic, and she delivered ahead of schedule.",
+    "rating": 5,
+    "created_at": "2023-01-15T10:45:00.000Z",
+    "freelancer_id": "f004"
+  },
+  {
+    "_id": "r025",
+    "title": "Decent PHP work",
+    "text": "David made some customizations to our e-commerce platform. While the functionality worked as expected, the code could have been more efficient and better documented.",
+    "rating": 3,
+    "created_at": "2023-02-10T16:30:00.000Z",
+    "freelancer_id": "f005"
+  },
+  {
+    "_id": "r026",
+    "title": "Excellent copywriting",
+    "text": "Anna wrote the copy for our product landing pages. Her ability to craft compelling, benefit-focused content has definitely contributed to our improved conversion rates.",
+    "rating": 5,
+    "created_at": "2023-01-20T11:10:00.000Z",
+    "freelancer_id": "f006"
+  },
+  {
+    "_id": "r027",
+    "title": "Top-notch Java work",
+    "text": "Robert refactored our legacy Java application, improving performance and maintainability. His deep knowledge of the language and best practices was evident throughout the project.",
+    "rating": 5,
+    "created_at": "2023-02-25T13:40:00.000Z",
+    "freelancer_id": "f007"
+  },
+  {
+    "_id": "r028",
+    "title": "Social media strategy",
+    "text": "Olivia developed a social media marketing plan for our product launch. The strategy was well-researched and tailored to our target audience, though implementation took longer than expected.",
+    "rating": 4,
+    "created_at": "2023-01-10T09:20:00.000Z",
+    "freelancer_id": "f008"
+  },
+  {
+    "_id": "r029",
+    "title": "Excellent Next.js development",
+    "text": "William built a server-side rendered application using Next.js. The performance and SEO benefits have been significant, and his code quality was excellent.",
+    "rating": 5,
+    "created_at": "2023-02-05T15:30:00.000Z",
+    "freelancer_id": "f009"
+  },
+  {
+    "_id": "r030",
+    "title": "Comprehensive SEO audit",
+    "text": "Emma conducted a thorough SEO audit of our website and provided actionable recommendations. Her insights have helped us improve our content strategy and technical SEO implementation.",
+    "rating": 5,
+    "created_at": "2023-01-25T10:50:00.000Z",
+    "freelancer_id": "f010"
+  }
+] 

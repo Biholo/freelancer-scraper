@@ -1,0 +1,160 @@
+{
+    "PeoplePerHour": {
+      "Marketing": {
+        "Advertising": "1",
+        "Marketing": "34",
+        "PR": "45"
+      },
+      "Engineering": {
+        "Aerospace": "2",
+        "Automotive": "5",
+        "Chemical": "8",
+        "Electronics": "12",
+        "Mining": "38"
+      },
+      "Food & Beverage": {
+        "Alcohol": "3",
+        "Food": "20",
+        "Tobacco": "58"
+      },
+      "Agriculture": {
+        "Agriculture": "4",
+        "Farming": "16",
+        "Forestry": "21",
+        "Fishing": "19"
+      },
+      "Media": {
+        "Broadcasting": "7",
+        "Film": "17",
+        "Gaming": "23",
+        "Media": "35",
+        "News": "40",
+        "Radio": "46",
+        "Publishing": "44"
+      },
+      "Healthcare": {
+        "Healthcare": "25",
+        "Medical": "36",
+        "Pharmaceutical": "42"
+      },
+      "Military": {
+        "Defense": "10",
+        "Military": "37"
+      },
+      "Entertainment": {
+        "Art": "6",
+        "Entertainment": "14",
+        "Leisure": "32",
+        "Sport": "54",
+        "Music": "39"
+      },
+      "Business & Legal": {
+        "Financial Services": "18",
+        "Legal": "31",
+        "Insurance": "28"
+      },
+      "Government": {
+        "Government": "24",
+        "Public Utilities": "43"
+      },
+      "Technology": {
+        "Energy": "13",
+        "IT": "29",
+        "Internet": "30",
+        "Software": "53",
+        "Technology": "55",
+        "Telecommunications": "56",
+        "Online Security": "41"
+      },
+      "Retail": {
+        "FMCG": "22",
+        "Retail": "49",
+        "Sales": "50"
+      },
+      "Construction": {
+        "Construction": "9"
+      },
+      "Real Estate": {
+        "Real Estate": "47"
+      },
+      "Recruitment": {
+        "Recruitment": "48",
+        "Human Resources": "27"
+      },
+      "Transport": {
+        "Transport": "59",
+        "Shipping": "52"
+      },
+      "Travel": {
+        "Travel": "60",
+        "Hospitality": "26"
+      },
+      "Water": {
+        "Water": "61"
+      },
+      "Security": {
+        "Private Security": "51"
+      },
+      "Manufacturing": {
+        "Manufacturing": "33"
+      },
+      "Education": {
+        "Education": "11"
+      },
+      "Environmental": {
+        "Environmental": "15"
+      },
+      "Timber": {
+        "Timber": "57"
+      }
+    },
+  
+    "Truelancer": {
+      "Development": {
+        "Android Developers": "353",
+        "IOS Developers": "1314",
+        "Wordpress Developers": "42",
+        "PHP Developers": "36"
+      },
+      "Creative": {
+        "Content Writers": "100"
+      },
+      "Marketing": {
+        "Data Entry": "127",
+        "Logo Designers": "32",
+        "Graphic Designers": "35"
+      }
+    },
+    
+    "Freelancer": {
+      "Web Development": {
+        "Website Design": "website-design",
+        "WordPress": "website-design-wordpress",
+        "HTML": "html",
+        "PHP": "php",
+        "JavaScript": "javascript"
+      },
+      "Mobile Development": {
+        "Android App Development": "android",
+        "iOS Development": "ios-development",
+        "React Native": "react-native",
+        "Flutter": "flutter" 
+      },
+      "Design": {
+        "Logo Design": "logo-design",
+        "Graphic Design": "graphic-design",
+        "Illustration": "illustration"
+      },
+      "Writing": {
+        "Content Writing": "content-writing",
+        "Copywriting": "copywriting",
+        "Technical Writing": "technical-writing",
+        "Translation": "translation"
+      },
+      "Data Science": {
+        "Python": "python",
+        "SQL": "sql"
+      }
+    }
+  }
+  

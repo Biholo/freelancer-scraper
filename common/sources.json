@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "607f1f77bcf86cd799439001",
+    "name": "Freelancer",
+    "url": "https://www.freelancer.com",
+    "description": "Plateforme internationale de freelance"
+  },
+  {
+    "_id": "607f1f77bcf86cd799439002",
+    "name": "PeoplePerHour",
+    "url": "https://www.peopleperhour.com",
+    "description": "Plateforme britannique de freelance"
+  },
+  {
+    "_id": "607f1f77bcf86cd799439003",
+    "name": "TrueLancer",
+    "url": "https://www.truelancer.com",
+    "description": "Plateforme de freelance pour les freelancers et les clients"
+  }
+] 

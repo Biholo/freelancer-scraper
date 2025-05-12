@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799439011",
+    "code": "AF",
+    "name": "Afghanistan"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439012",
+    "code": "AL",
+    "name": "Albania"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439013",
+    "code": "DZ",
+    "name": "Algeria"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439014",
+    "code": "AS",
+    "name": "American Samoa"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439015",
+    "code": "AD",
+    "name": "Andorra"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439016",
+    "code": "AO",
+    "name": "Angola"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439017",
+    "code": "AI",
+    "name": "Anguilla"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439018",
+    "code": "AQ",
+    "name": "Antarctica"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439019",
+    "code": "AG",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439020",
+    "code": "AR",
+    "name": "Argentina"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439021",
+    "code": "AM",
+    "name": "Armenia"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439022",
+    "code": "AW",
+    "name": "Aruba"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439023",
+    "code": "AU",
+    "name": "Australia"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439024",
+    "code": "AT",
+    "name": "Austria"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439025",
+    "code": "AZ",
+    "name": "Azerbaijan"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439026",
+    "code": "BS",
+    "name": "Bahamas"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439027",
+    "code": "BH",
+    "name": "Bahrain"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439028",
+    "code": "BD",
+    "name": "Bangladesh"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439029",
+    "code": "BB",
+    "name": "Barbados"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439030",
+    "code": "BY",
+    "name": "Belarus"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439031",
+    "code": "BE",
+    "name": "Belgium"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439032",
+    "code": "BZ",
+    "name": "Belize"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439033",
+    "code": "BJ",
+    "name": "Benin"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439034",
+    "code": "BM",
+    "name": "Bermuda"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439035",
+    "code": "BT",
+    "name": "Bhutan"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439036",
+    "code": "BO",
+    "name": "Bolivia"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439037",
+    "code": "BA",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439038",
+    "code": "BW",
+    "name": "Botswana"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439039",
+    "code": "BR",
+    "name": "Brazil"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439040",
+    "code": "GB",
+    "name": "United Kingdom"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439041",
+    "code": "US",
+    "name": "United States"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439042",
+    "code": "FR",
+    "name": "France"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439043",
+    "code": "DE",
+    "name": "Germany"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439044",
+    "code": "ES",
+    "name": "Spain"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439045",
+    "code": "IT",
+    "name": "Italy"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439046",
+    "code": "CA",
+    "name": "Canada"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439047",
+    "code": "NL",
+    "name": "Netherlands"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439048",
+    "code": "CH",
+    "name": "Switzerland"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439049",
+    "code": "SE",
+    "name": "Sweden"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439050",
+    "code": "NO",
+    "name": "Norway"
+  }
+] 

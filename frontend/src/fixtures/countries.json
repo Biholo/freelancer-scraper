@@ -1,0 +1,77 @@
+[
+  {
+    "_id": "c001",
+    "name": "United States",
+    "code": "US"
+  },
+  {
+    "_id": "c002",
+    "name": "United Kingdom",
+    "code": "GB"
+  },
+  {
+    "_id": "c003",
+    "name": "Canada",
+    "code": "CA"
+  },
+  {
+    "_id": "c004",
+    "name": "Australia",
+    "code": "AU"
+  },
+  {
+    "_id": "c005",
+    "name": "Germany",
+    "code": "DE"
+  },
+  {
+    "_id": "c006",
+    "name": "France",
+    "code": "FR"
+  },
+  {
+    "_id": "c007",
+    "name": "India",
+    "code": "IN"
+  },
+  {
+    "_id": "c008",
+    "name": "Japan",
+    "code": "JP"
+  },
+  {
+    "_id": "c009",
+    "name": "Brazil",
+    "code": "BR"
+  },
+  {
+    "_id": "c010",
+    "name": "Netherlands",
+    "code": "NL"
+  },
+  {
+    "_id": "c011",
+    "name": "Spain",
+    "code": "ES"
+  },
+  {
+    "_id": "c012",
+    "name": "Italy",
+    "code": "IT"
+  },
+  {
+    "_id": "c013",
+    "name": "Sweden",
+    "code": "SE"
+  },
+  {
+    "_id": "c014",
+    "name": "Singapore",
+    "code": "SG"
+  },
+  {
+    "_id": "c015",
+    "name": "Ireland",
+    "code": "IE"
+  }
+] 
